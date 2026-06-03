@@ -91,6 +91,5 @@ projekt/
 ## Wymagania
 
 - Node.js 20+
-- .NET 8 lub nowszy
 - Git
 - Wybrany system bazodanowy
