@@ -26,12 +26,11 @@ W ramach projektu uczniowie:
 - CSS3
 - JavaScript (ES6+)
 - TypeScript
-- Frameworky frontendowe (Angular, React lub Vue)
+- Framework frontendowy React
 - Responsywny interfejs użytkownika (RWD)
 
 ### Backend
 
-- ASP.NET Core
 - Node.js
 - REST API
 - Autoryzacja i uwierzytelnianie użytkowników
@@ -40,17 +39,13 @@ W ramach projektu uczniowie:
 ### Bazy danych
 
 - MySQL
-- PostgreSQL
-- Microsoft SQL Server
 - MongoDB
-- ORM (Entity Framework Core)
 
 ### Narzędzia
 
 - Git
 - GitHub
-- Docker
-- Visual Studio / Visual Studio Code
+- Visual Studio Code
 - Postman
 
 ## Efekty kształcenia INF.04 realizowane w projekcie
