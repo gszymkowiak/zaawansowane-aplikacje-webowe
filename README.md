@@ -2,8 +2,6 @@
 
 ## Opis projektu
 
-Projekt realizowany w ramach przedmiotu **Zaawansowane Aplikacje Webowe** na kierunku **Technik Programista**.
-
 Celem projektu jest praktyczna realizacja efektów kształcenia określonych w podstawie programowej kwalifikacji **INF.04 – Projektowanie, programowanie i testowanie aplikacji**, ze szczególnym uwzględnieniem tworzenia nowoczesnych aplikacji internetowych wykorzystujących technologie frontendowe, backendowe oraz bazy danych.
 
 ## Cele projektu
