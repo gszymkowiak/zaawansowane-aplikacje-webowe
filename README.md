@@ -1,4 +1,4 @@
-# Zaawansowane Aplikacje Webowe
+# Zaawansowane aplikacje webowe
 
 ## Opis projektu
 
