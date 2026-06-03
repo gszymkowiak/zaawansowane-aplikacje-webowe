@@ -23,7 +23,7 @@ W ramach projektu uczniowie:
 ### Frontend
 
 - HTML5
-- CSS3
+- Framework Bootstrap
 - JavaScript (ES6+)
 - TypeScript
 - Framework frontendowy React
