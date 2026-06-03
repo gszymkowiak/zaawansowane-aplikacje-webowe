@@ -93,3 +93,7 @@ projekt/
 - Node.js 20+
 - Git
 - Wybrany system bazodanowy
+
+## Licencja
+
+Projekt udostępniony wyłącznie w celach edukacyjnych.
