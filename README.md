@@ -26,7 +26,8 @@ W ramach projektu uczniowie:
 - Framework Bootstrap
 - JavaScript (ES6+)
 - TypeScript
-- Framework frontendowy React
+- Biblioteka React
+  - (Co wiesz o React? Fiszki)[https://material.edu.tychy.pl/data/tools/react-fiszki/]
 - Responsywny interfejs użytkownika (RWD)
 
 ### Backend
