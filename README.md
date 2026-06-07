@@ -12,7 +12,7 @@ W ramach projektu uczniowie:
 - projektują interfejs użytkownika zgodnie z zasadami UX/UI,
 - tworzą aplikacje internetowe z wykorzystaniem współczesnych technologii webowych,
 - implementują komunikację klient–serwer,
-- projektują i obsługują relacyjne lub nierelacyjne bazy danych,
+- projektują i obsługują nierelacyjne bazy danych oraz obsługują relacyjne bazy danych,
 - stosują wzorce projektowe i dobre praktyki programistyczne,
 - wykonują testy aplikacji,
 - dokumentują proces tworzenia oprogramowania,
