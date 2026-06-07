@@ -23,7 +23,12 @@ W ramach projektu uczniowie:
 ### Frontend
 
 - HTML5
-  - [Znaczniki semantyczne](Znaczniki-semantyczne-HTML.png)
+  - [Plansza: Znaczniki semantyczne HTML](Znaczniki-semantyczne-HTML.png)
+  - [Plansza: Znaczniki formularza](Znaczniki-HTML-formularza.png)
+  - [Plansza: Znaczniki input](Znaczniki-HTML-input.png)
+  - [Plansza: Znaczniki tabeli](Znaczniki-HTML-tabeli.png)
+  - [Plansza: Znaczniki nawigacji strony](Znaczniki-HTML-nawigacji.png)
+ 
 - Framework Bootstrap
 - JavaScript (ES6+)
 - TypeScript
