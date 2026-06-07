@@ -23,6 +23,7 @@ W ramach projektu uczniowie:
 ### Frontend
 
 - HTML5
+  - [Znaczniki semantyczne](Znaczniki-semantyczne-HTML.png)
 - Framework Bootstrap
 - JavaScript (ES6+)
 - TypeScript
