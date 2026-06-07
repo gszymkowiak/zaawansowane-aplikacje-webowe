@@ -34,7 +34,13 @@ W ramach projektu uczniowie:
 - TypeScript
 - Biblioteka React
   - [Fiszki. Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
+ 
 - Responsywny interfejs użytkownika (RWD)
+  - [Plansza: Zasady RWD](RWD-Zasady.png)
+  - [Plansza: Podstawy flexbox](RWD-Flexbox.png)
+  - [Plansza: Flexbox i układanie elementów na stronie](RWD-Flexbox-układanie_elementów.png)
+  - [Plansza: Flexbox i układ mobilny](RWD-Flexbox-układ_mobilny.png)
+  - [Plansza: CSS Grid - podstawy](RWD-CSS_Grid.png)
 
 ### Backend
 
