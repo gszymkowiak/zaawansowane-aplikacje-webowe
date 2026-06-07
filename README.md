@@ -27,7 +27,7 @@ W ramach projektu uczniowie:
 - JavaScript (ES6+)
 - TypeScript
 - Biblioteka React
-  - [Co wiesz o React? Fiszki](https://material.edu.tychy.pl/data/tools/react-fiszki/)
+  - [Fiszki - Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
 - Responsywny interfejs użytkownika (RWD)
 
 ### Backend
