@@ -34,11 +34,11 @@ W ramach projektu uczniowie:
 - TypeScript
 - Biblioteka React
   - [Fiszki. Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
-  - [Najważniejsze hooki w React](React-najważniejsze_hooki.png)
-  - [Hook userState()](React-hook_useState.png)
-  - [Hook useEffect()](React-hook_useEffect.png)
-  - [Hook userId()](React-hook_userId.png)
-  - [Hook userRef()](React-hook_userRef.png)
+  - [Plansza: Najważniejsze hooki w React](React-najważniejsze_hooki.png)
+  - [Plansza: Hook userState()](React-hook_useState.png)
+  - [Plansza: Hook useEffect()](React-hook_useEffect.png)
+  - [Plansza: Hook userId()](React-hook_userId.png)
+  - [Plansza: Hook userRef()](React-hook_userRef.png)
  
 - Responsywny interfejs użytkownika (RWD)
   - [Plansza: Zasady RWD](RWD-Zasady.png)
