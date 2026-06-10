@@ -31,7 +31,7 @@ W ramach projektu uczniowie:
  
 - Framework Bootstrap
   -  [Plansza: Bootstrap - Wprowadzenie](Bootstrap-Wprowadzenie.png)
-  -  [Plansza: Bootstrap - Komponenty: kontener, system siatki, przyciski, nawigacja](Bootstrap-Podstawowe_komponenty-1.png)
+  -  [Plansza: Bootstrap - Komponenty: kontener, siatka, przyciski, nawigacja](Bootstrap-Podstawowe_komponenty-1.png)
   -  [Plansza: Bootstrap - Komponenty: formularz, karta, alert, modal](Bootstrap-Podstawowe_komponenty-2.png)
   -  [Plansza: Bootstrap - Podstawy siatki](Bootstrap-Grid_podstawy.png)
   -  [Plansza: Bootstrap - Podejście "mobile first"](Bootstrap-Mobile_first.png)
