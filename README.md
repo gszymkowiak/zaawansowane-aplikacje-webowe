@@ -32,6 +32,7 @@ W ramach projektu uczniowie:
 - Framework Bootstrap
   -  [Plansza: Bootstrap - Wprowadzenie](Bootstrap-Wprowadzenie.png)
   -  [Plansza: Bootstrap - Podstawowe komponenty](Bootstrap-Podstawowe_komponenty.png)
+  -  [Plansza: Bootstrap - Podstawy siatki](Bootstrap-Grid_podstawy.png)
 
 - JavaScript (ES6+)
 - TypeScript
