@@ -30,6 +30,9 @@ W ramach projektu uczniowie:
   - [Plansza: Znaczniki nawigacji strony](Znaczniki-HTML-nawigacji.png)
  
 - Framework Bootstrap
+  -  [Plansza: Bootstrap - Wprowadzenie](Bootstrap-Wprowadzenie.png)
+  -  a
+
 - JavaScript (ES6+)
 - TypeScript
 - Biblioteka React
