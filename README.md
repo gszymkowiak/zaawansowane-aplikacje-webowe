@@ -33,6 +33,8 @@ W ramach projektu uczniowie:
   -  [Plansza: Bootstrap - Wprowadzenie](Bootstrap-Wprowadzenie.png)
   -  [Plansza: Bootstrap - Podstawowe komponenty](Bootstrap-Podstawowe_komponenty.png)
   -  [Plansza: Bootstrap - Podstawy siatki](Bootstrap-Grid_podstawy.png)
+  -  [Plansza: Bootstrap - Podejście "mobile first"](Bootstrap-Mobile_first.png)
+  -  [Plansza: Bootstrap - Responsywana stronw www](Bootstrap-SPA_responsywnie.png)
 
 - JavaScript (ES6+)
 - TypeScript
