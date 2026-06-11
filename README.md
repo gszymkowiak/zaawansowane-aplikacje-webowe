@@ -43,6 +43,7 @@ W ramach projektu uczniowie:
 - TypeScript
 - Biblioteka React
   - [Fiszki. Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
+  - [Test: Podstawy React.js](https://forms.gle/ddnwfPu3YEv6Yyt76)
   - [Plansza: JSX, props i komponent funkcyjny](React-jsx-props-komponent.png)
   - [Plansza: Najważniejsze hooki w React](React-najważniejsze_hooki.png)
   - [Plansza: Hook userState()](React-hook_useState.png)
