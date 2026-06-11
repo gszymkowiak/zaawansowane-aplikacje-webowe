@@ -58,6 +58,10 @@ W ramach projektu uczniowie:
 ### Backend
 
 - Node.js
+  - [Plansza: Node - Wprowadzenie](Node-Wprowadzenie.png)
+  - [Plansza: Node - Architektura](Node-Architektura.png)
+  - [Plansza: Node - Struktura projektu](Node-Struktura_projektu.png)
+
 - REST API
 - Autoryzacja i uwierzytelnianie użytkowników
 - Obsługa plików i danych
