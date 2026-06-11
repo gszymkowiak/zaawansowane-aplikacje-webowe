@@ -38,6 +38,8 @@ W ramach projektu uczniowie:
   -  [Plansza: Bootstrap - Responsywana stronw www](Bootstrap-SPA_responsywnie.png)
 
 - JavaScript (ES6+)
+  - [Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
+
 - TypeScript
 - Biblioteka React
   - [Fiszki. Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
