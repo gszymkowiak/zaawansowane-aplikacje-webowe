@@ -65,6 +65,7 @@ W ramach projektu uczniowie:
   - [Plansza: Node - Najważniejsze polecenia](Node-Najważniejsze_polecenia.png)
   - [Plansza: Node - Architektura](Node-Architektura.png)
   - [Plansza: Node - Struktura projektu](Node-Struktura_projektu.png)
+  - [Plansza: Node - System plików](Node-System_plików_w_Node.png)
 
 - REST API
 - Autoryzacja i uwierzytelnianie użytkowników
