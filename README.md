@@ -62,6 +62,7 @@ W ramach projektu uczniowie:
 
 - Node.js
   - [Plansza: Node - Wprowadzenie](Node-Wprowadzenie.png)
+  - [Plansza: Node - Najważniejsze polecenia](Node-Najważniejsze_polecenia.png)
   - [Plansza: Node - Architektura](Node-Architektura.png)
   - [Plansza: Node - Struktura projektu](Node-Struktura_projektu.png)
 
