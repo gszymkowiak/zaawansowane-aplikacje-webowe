@@ -66,6 +66,7 @@ W ramach projektu uczniowie:
   - [Plansza: Node - Architektura](Node-Architektura.png)
   - [Plansza: Node - Struktura projektu](Node-Struktura_projektu.png)
   - [Plansza: Node - System plików](Node-System_plików_w_Node.png)
+  - [Plansza: Node - Moduły: Commonjs i ES modules](Node-Moduły_Commonjs_i_ES_modules.png)
 
 - REST API
 - Autoryzacja i uwierzytelnianie użytkowników
