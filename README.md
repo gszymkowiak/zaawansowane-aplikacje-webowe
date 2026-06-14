@@ -72,7 +72,6 @@ W ramach projektu uczniowie:
 
 - REST API
 - Autoryzacja i uwierzytelnianie użytkowników
-- Obsługa plików i danych
 
 ### Bazy danych
 
