@@ -68,6 +68,7 @@ W ramach projektu uczniowie:
   - [Plansza: Node - System plików](Node-System_plików_w_Node.png)
   - [Plansza: Node - Moduły: Commonjs i ES modules](Node-Moduły_Commonjs_i_ES_modules.png)
   - [Plansza: Node - Asynchroniczność](Node-Asynchroniczność.png)
+  - [Plansza: Node - Express.js](Node-Express-podstawy.png)
 
 - REST API
 - Autoryzacja i uwierzytelnianie użytkowników
