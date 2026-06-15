@@ -72,6 +72,8 @@ W ramach projektu uczniowie:
 
 - REST API
 - Autoryzacja i uwierzytelnianie użytkowników
+  - [Plansza: Autoryzacja z MongoDB](Autoryzacja-MongoDB.png)
+  - [Plansza: Autoryzacja z MySQL](Autoryzajca-MySQL.png)
 
 ### Bazy danych
 
