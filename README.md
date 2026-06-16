@@ -51,7 +51,7 @@ W ramach projektu uczniowie:
   - [Plansza: Hook userId()](React-hook_userId.png)
   - [Plansza: Hook userRef()](React-hook_userRef.png)
   - [Plansza: Formularz w React](React-formularz.png)
-  - [Plansza: Formularza w React z Bootstrap'em](React-formularza_z_bootstrapem.png)
+  - [Plansza: Formularz w React z Bootstrap'em](React-formularza_z_bootstrapem.png)
  
 - Responsywny interfejs użytkownika (RWD)
   - [Plansza: Zasady RWD](RWD-Zasady.png)
