@@ -85,7 +85,8 @@ W ramach projektu uczniowie:
 ### Narzędzia
 
 - Git
-  - [Plansza: Visual Studio Code - Flow pracy z Git](Visual_Studio_Vode-flow_pracy_z_git.png) 
+  - [Plansza: Visual Studio Code - Flow pracy z Git](Visual_Studio_Code-flow_pracy_z_git.png)
+
 - GitHub
 - Visual Studio Code
 - Postman
