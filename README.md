@@ -89,7 +89,7 @@ W ramach projektu uczniowie:
 
 - GitHub
 - Visual Studio Code
-  - [Plansza: Visual Studio Code - wprowadzenie.png](Visual_Studio_Code-wprowadzenie.png)
+  - [Plansza: Visual Studio Code - wprowadzenie](Visual_Studio_Code-wprowadzenie.png)
   - [Plansza: Visual Studio Code - Flow pracy z Git](Visual_Studio_Code-flow_pracy_z_git.png)
   
 - Postman
