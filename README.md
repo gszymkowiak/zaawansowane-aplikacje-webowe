@@ -96,6 +96,7 @@ W ramach projektu uczniowie:
   - [Plansza: Visual Studio Code - EMMET](Visual_Studio_Code-EMMET.png)
   
 - Postman
+  - [Plansza: Postman - Wprowadzenie](Postman.png)
 
 ## Efekty kształcenia INF.04 realizowane w projekcie
 
