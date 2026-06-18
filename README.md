@@ -91,6 +91,7 @@ W ramach projektu uczniowie:
 - Visual Studio Code
   - [Plansza: Visual Studio Code - Wprowadzenie](Visual_Studio_Code-wprowadzenie.png)
   - [Plansza: Visual Studio Code - Flow pracy z Git](Visual_Studio_Code-flow_pracy_z_git.png)
+  - [Plansza: Visual Studio Code - EMMET](Visual_Studio_Code-EMMET.png)
   
 - Postman
 
