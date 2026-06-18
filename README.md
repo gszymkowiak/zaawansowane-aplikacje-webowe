@@ -73,6 +73,8 @@ W ramach projektu uczniowie:
   - [Plansza: Node - Express.js](Node-Express-podstawy.png)
 
 - REST API
+  - [Plansza: Rest API - Wprowadzenie](Rest_API.png)
+ 
 - Autoryzacja i uwierzytelnianie użytkowników
   - [Plansza: Autoryzacja z MongoDB](Autoryzacja-MongoDB.png)
   - [Plansza: Autoryzacja z MySQL](Autoryzajca-MySQL.png)
