@@ -88,6 +88,7 @@ W ramach projektu uczniowie:
 
 - Git
   - [Plansza: Git - Podstawy](Git-Podstawy.png)
+  - [Plansza: GitHub - Podstawy](GitHub-Podsatwy.png)
 
 - GitHub
 - Visual Studio Code
