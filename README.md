@@ -42,7 +42,7 @@ W ramach projektu uczniowie:
 
 - TypeScript
   - [Plansza: TypeScript - Wprowadzene](TypeScript-Wprowadzenie.png)
-  - [Plansza: TypeScript - Podstawy](TypeScript-Podstawy.png)
+  - [Plansza: TypeScript - Podstawy pracy](TypeScript-Podstawy.png)
  
 - Biblioteka React
   - [Fiszki. Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
