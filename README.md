@@ -41,6 +41,7 @@ W ramach projektu uczniowie:
   - [Test. Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
 
 - TypeScript
+  - [Plansza: TypeScript - Wprowadzene](TypeScript-Wprowadzenie.png)
   - [Plansza: TypeScript - Podstawy](TypeScript-Podstawy.png)
  
 - Biblioteka React
