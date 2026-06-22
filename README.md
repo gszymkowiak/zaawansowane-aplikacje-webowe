@@ -86,6 +86,7 @@ W ramach projektu uczniowie:
 
 - MySQL
 - MongoDB
+  - [Plansza: (MongoDB - Wprowadzenie](MongoDB-wprowadzenie.png)
 
 ### Narzędzia
 
