@@ -87,6 +87,8 @@ W ramach projektu uczniowie:
 - MySQL
 - MongoDB
   - [Plansza: MongoDB - Wprowadzenie](MongoDB-wprowadzenie.png)
+  - [Plansza: MongoDB - API REST](MongoDB-API_REST.png)
+  - [Plansza: MongoDB - React komunikacja z API](MongoDB-React_komunikacja_z_API.png)
 
 ### Narzędzia
 
