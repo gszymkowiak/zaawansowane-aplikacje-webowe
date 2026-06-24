@@ -89,6 +89,7 @@ W ramach projektu uczniowie:
   - [Plansza: MongoDB - Wprowadzenie](MongoDB-wprowadzenie.png)
   - [Plansza: MongoDB - API REST](MongoDB-API_REST.png)
   - [Plansza: MongoDB - React komunikacja z API](MongoDB-React_komunikacja_z_API.png)
+  - [Plansza: MongoDB - Czym jest kolekcja](MongoDB-kolekcja.png)
 
 ### Narzędzia
 
