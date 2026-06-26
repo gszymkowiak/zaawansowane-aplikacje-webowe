@@ -85,6 +85,8 @@ W ramach projektu uczniowie:
 ### Bazy danych
 
 - MySQL
+  - [Plansza: MySQL - Wprowadzenie](MySQL-wprowadzenie.png)
+
 - MongoDB
   - [Plansza: MongoDB - Wprowadzenie](MongoDB-wprowadzenie.png)
   - [Plansza: MongoDB - API REST](MongoDB-API_REST.png)
