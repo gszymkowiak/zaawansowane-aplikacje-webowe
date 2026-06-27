@@ -31,11 +31,11 @@ W ramach projektu uczniowie:
 
 - Framework Bootstrap
   - [Plansza: Bootstrap - Wprowadzenie](Bootstrap/Bootstrap-Wprowadzenie.png)
-  - [Plansza: Bootstrap - Komponenty: kontener, siatka, przyciski, nawigacja](Bootstrap-Podstawowe_komponenty-1.png)
-  - [Plansza: Bootstrap - Komponenty: formularz, karta, alert, modal](Bootstrap-Podstawowe_komponenty-2.png)
-  - [Plansza: Bootstrap - Podstawy siatki](Bootstrap-Grid_podstawy.png)
-  - [Plansza: Bootstrap - Podejście "mobile first"](Bootstrap-Mobile_first.png)
-  - [Plansza: Bootstrap - Responsywana stronw www](Bootstrap-SPA_responsywnie.png)
+  - [Plansza: Bootstrap - Komponenty: kontener, siatka, przyciski, nawigacja](Bootstrap/Bootstrap-Podstawowe_komponenty-1.png)
+  - [Plansza: Bootstrap - Komponenty: formularz, karta, alert, modal](Bootstrap/Bootstrap-Podstawowe_komponenty-2.png)
+  - [Plansza: Bootstrap - Podstawy siatki](Bootstrap/Bootstrap-Grid_podstawy.png)
+  - [Plansza: Bootstrap - Podejście "mobile first"](Bootstrap/Bootstrap-Mobile_first.png)
+  - [Plansza: Bootstrap - Responsywana stronw www](Bootstrap/Bootstrap-SPA_responsywnie.png)
 
 - JavaScript (ES6+)
   - [Test. Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
