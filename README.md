@@ -28,14 +28,14 @@ W ramach projektu uczniowie:
   - [Plansza: Znaczniki input](Znaczniki-HTML-input.png)
   - [Plansza: Znaczniki tabeli](Znaczniki-HTML-tabeli.png)
   - [Plansza: Znaczniki nawigacji strony](Znaczniki-HTML-nawigacji.png)
- 
+
 - Framework Bootstrap
-  -  [Plansza: Bootstrap - Wprowadzenie](Bootstrap-Wprowadzenie.png)
-  -  [Plansza: Bootstrap - Komponenty: kontener, siatka, przyciski, nawigacja](Bootstrap-Podstawowe_komponenty-1.png)
-  -  [Plansza: Bootstrap - Komponenty: formularz, karta, alert, modal](Bootstrap-Podstawowe_komponenty-2.png)
-  -  [Plansza: Bootstrap - Podstawy siatki](Bootstrap-Grid_podstawy.png)
-  -  [Plansza: Bootstrap - Podejście "mobile first"](Bootstrap-Mobile_first.png)
-  -  [Plansza: Bootstrap - Responsywana stronw www](Bootstrap-SPA_responsywnie.png)
+  - [Plansza: Bootstrap - Wprowadzenie](Bootstrap/Bootstrap-Wprowadzenie.png)
+  - [Plansza: Bootstrap - Komponenty: kontener, siatka, przyciski, nawigacja](Bootstrap-Podstawowe_komponenty-1.png)
+  - [Plansza: Bootstrap - Komponenty: formularz, karta, alert, modal](Bootstrap-Podstawowe_komponenty-2.png)
+  - [Plansza: Bootstrap - Podstawy siatki](Bootstrap-Grid_podstawy.png)
+  - [Plansza: Bootstrap - Podejście "mobile first"](Bootstrap-Mobile_first.png)
+  - [Plansza: Bootstrap - Responsywana stronw www](Bootstrap-SPA_responsywnie.png)
 
 - JavaScript (ES6+)
   - [Test. Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
@@ -43,7 +43,7 @@ W ramach projektu uczniowie:
 - TypeScript
   - [Plansza: TypeScript - Wprowadzene](TypeScript-Wprowadzenie.png)
   - [Plansza: TypeScript - Podstawy pracy](TypeScript-Podstawy.png)
- 
+
 - Biblioteka React
   - [Fiszki. Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
   - [Test: Podstawy React.js](https://forms.gle/ddnwfPu3YEv6Yyt76)
@@ -55,7 +55,7 @@ W ramach projektu uczniowie:
   - [Plansza: Hook userRef()](React-hook_userRef.png)
   - [Plansza: Formularz w React](React-formularz.png)
   - [Plansza: Formularz w React z Bootstrap'em](React-formularza_z_bootstrapem.png)
- 
+
 - Responsywny interfejs użytkownika (RWD)
   - [Plansza: Zasady RWD](RWD-Zasady.png)
   - [Plansza: Podstawy flexbox](RWD-Flexbox.png)
@@ -77,7 +77,7 @@ W ramach projektu uczniowie:
 
 - REST API
   - [Plansza: Rest API - Wprowadzenie](Rest_API.png)
- 
+
 - Autoryzacja i uwierzytelnianie użytkowników
   - [Plansza: Autoryzacja z MongoDB](Autoryzacja-MongoDB.png)
   - [Plansza: Autoryzacja z MySQL](Autoryzajca-MySQL.png)
@@ -101,12 +101,10 @@ W ramach projektu uczniowie:
 - GitHub
   - [Plansza: GitHub - Podstawy](GitHub-Podstawy.png)
   - [Plansza: GitHub - README](GitHub-README.png)
-  
 - Visual Studio Code
   - [Plansza: Visual Studio Code - Wprowadzenie](Visual_Studio_Code-wprowadzenie.png)
   - [Plansza: Visual Studio Code - Flow pracy z Git](Visual_Studio_Code-flow_pracy_z_git.png)
   - [Plansza: Visual Studio Code - EMMET](Visual_Studio_Code-EMMET.png)
-  
 - Postman
   - [Plansza: Postman - Wprowadzenie](Postman.png)
 
