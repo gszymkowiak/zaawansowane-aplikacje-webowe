@@ -66,14 +66,14 @@ W ramach projektu uczniowie:
 ### Backend
 
 - Node.js
-  - [Plansza: Node - Wprowadzenie](Node-Wprowadzenie.png)
-  - [Plansza: Node - Najważniejsze polecenia](Node-Najważniejsze_polecenia.png)
-  - [Plansza: Node - Architektura](Node-Architektura.png)
-  - [Plansza: Node - Struktura projektu](Node-Struktura_projektu.png)
-  - [Plansza: Node - System plików](Node-System_plików_w_Node.png)
-  - [Plansza: Node - Moduły: Commonjs i ES modules](Node-Moduły_Commonjs_i_ES_modules.png)
-  - [Plansza: Node - Asynchroniczność](Node-Asynchroniczność.png)
-  - [Plansza: Node - Express.js](Node-Express-podstawy.png)
+  - [Plansza: Node - Wprowadzenie](Node/Node-Wprowadzenie.png)
+  - [Plansza: Node - Najważniejsze polecenia](Node/Node-Najważniejsze_polecenia.png)
+  - [Plansza: Node - Architektura](Node/Node-Architektura.png)
+  - [Plansza: Node - Struktura projektu](Node/Node-Struktura_projektu.png)
+  - [Plansza: Node - System plików](Node/Node-System_plików_w_Node.png)
+  - [Plansza: Node - Moduły: Commonjs i ES modules](Node/Node-Moduły_Commonjs_i_ES_modules.png)
+  - [Plansza: Node - Asynchroniczność](Node/Node-Asynchroniczność.png)
+  - [Plansza: Node - Express.js](Node/Node-Express-podstawy.png)
 
 - REST API
   - [Plansza: Rest API - Wprowadzenie](Rest_API.png)
