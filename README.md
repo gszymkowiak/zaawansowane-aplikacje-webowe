@@ -57,11 +57,11 @@ W ramach projektu uczniowie:
   - [Plansza: Formularz w React z Bootstrap'em](React/React-formularza_z_bootstrapem.png)
 
 - Responsywny interfejs użytkownika (RWD)
-  - [Plansza: Zasady RWD](RWD-Zasady.png)
-  - [Plansza: Podstawy flexbox](RWD-Flexbox.png)
-  - [Plansza: Flexbox i układanie elementów na stronie](RWD-Flexbox-układanie_elementów.png)
-  - [Plansza: Flexbox i układ mobilny](RWD-Flexbox-układ_mobilny.png)
-  - [Plansza: CSS Grid - podstawy](RWD-CSS_Grid.png)
+  - [Plansza: Zasady RWD](Rwd/RWD-Zasady.png)
+  - [Plansza: Podstawy flexbox](Rwd/RWD-Flexbox.png)
+  - [Plansza: Flexbox i układanie elementów na stronie](Rwd/RWD-Flexbox-układanie_elementów.png)
+  - [Plansza: Flexbox i układ mobilny](Rwd/RWD-Flexbox-układ_mobilny.png)
+  - [Plansza: CSS Grid - podstawy](Rwd/RWD-CSS_Grid.png)
 
 ### Backend
 
