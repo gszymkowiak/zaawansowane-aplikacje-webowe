@@ -78,10 +78,6 @@ W ramach projektu uczniowie:
 - REST API
   - [Plansza: Rest API - Wprowadzenie](Rest_API.png)
 
-- Autoryzacja i uwierzytelnianie użytkowników
-  - [Plansza: Autoryzacja z MongoDB](Autoryzacja-MongoDB.png)
-  - [Plansza: Autoryzacja z MySQL](Autoryzajca-MySQL.png)
-
 ### Bazy danych
 
 - MySQL
@@ -92,6 +88,10 @@ W ramach projektu uczniowie:
   - [Plansza: MongoDB - API REST](MongoDB-API_REST.png)
   - [Plansza: MongoDB - React komunikacja z API](MongoDB-React_komunikacja_z_API.png)
   - [Plansza: MongoDB - Czym jest kolekcja?](MongoDB-kolekcja.png)
+ 
+- Autoryzacja i uwierzytelnianie użytkowników
+  - [Plansza: Autoryzacja z MongoDB](Autoryzacja-MongoDB.png)
+  - [Plansza: Autoryzacja z MySQL](Autoryzajca-MySQL.png)
 
 ### Narzędzia
 
