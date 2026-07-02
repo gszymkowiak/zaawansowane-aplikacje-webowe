@@ -96,17 +96,17 @@ W ramach projektu uczniowie:
 ### Narzędzia
 
 - Git
-  - [Plansza: Git - Podstawy](Git-Podstawy.png)
+  - [Plansza: Git - Podstawy](Narzędzia/Git-Podstawy.png)
 
 - GitHub
-  - [Plansza: GitHub - Podstawy](GitHub-Podstawy.png)
-  - [Plansza: GitHub - README](GitHub-README.png)
+  - [Plansza: GitHub - Podstawy](Narzędzia/GitHub-Podstawy.png)
+  - [Plansza: GitHub - README](Narzędzia/GitHub-README.png)
 - Visual Studio Code
-  - [Plansza: Visual Studio Code - Wprowadzenie](Visual_Studio_Code-wprowadzenie.png)
-  - [Plansza: Visual Studio Code - Flow pracy z Git](Visual_Studio_Code-flow_pracy_z_git.png)
-  - [Plansza: Visual Studio Code - EMMET](Visual_Studio_Code-EMMET.png)
+  - [Plansza: Visual Studio Code - Wprowadzenie](Narzędzia/Visual_Studio_Code-wprowadzenie.png)
+  - [Plansza: Visual Studio Code - Flow pracy z Git](Narzędzia/Visual_Studio_Code-flow_pracy_z_git.png)
+  - [Plansza: Visual Studio Code - EMMET](Narzędzia/Visual_Studio_Code-EMMET.png)
 - Postman
-  - [Plansza: Postman - Wprowadzenie](Postman.png)
+  - [Plansza: Postman - Wprowadzenie](Narzędzia/Postman.png)
 
 ## Efekty kształcenia INF.04 realizowane w projekcie
 
