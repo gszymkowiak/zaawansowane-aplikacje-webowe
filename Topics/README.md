@@ -4,16 +4,16 @@ Repozytorium zawiera zestaw materiałów w formacie PDF dotyczących podstaw two
 
 ### HTML i JavaScript
 
-- Dobre_praktyki_stylowania_stron_HTML.pdf
-- Dobre_praktyki_pisania_kodu_w_JavaScript.pdf
-- Wprowadzenie_do_aplikacji_webowych.pdf
+1. Dobre_praktyki_stylowania_stron_HTML
+2. Dobre_praktyki_pisania_kodu_w_JavaScript
+3. Wprowadzenie_do_aplikacji_webowych
 
 ### Responsive Web Design (RWD)
 
-- RWD-Wprowadzenie.pdf
-- RWD-Media_Queries.pdf
-- RWD-Grid-podstawy.pdf
-- RWD-Flexbox-podstawy.pdf
+1. RWD-Wprowadzenie
+2. RWD-Media_Queries
+3. RWD-Grid-podstawy
+4. RWD-Flexbox-podstawy
 
 ## 📄 Licencja
 
