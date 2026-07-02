@@ -88,7 +88,7 @@ W ramach projektu uczniowie:
   - [Plansza: MongoDB - API REST](MongoDB-API_REST.png)
   - [Plansza: MongoDB - React komunikacja z API](MongoDB-React_komunikacja_z_API.png)
   - [Plansza: MongoDB - Czym jest kolekcja?](MongoDB-kolekcja.png)
- 
+
 - Autoryzacja i uwierzytelnianie użytkowników
   - [Plansza: Autoryzacja z MongoDB](Autoryzacja-MongoDB.png)
   - [Plansza: Autoryzacja z MySQL](Autoryzajca-MySQL.png)
@@ -96,17 +96,17 @@ W ramach projektu uczniowie:
 ### Narzędzia
 
 - Git
-  - [Plansza: Git - Podstawy](Narzędzia/Git-Podstawy.png)
+  - [Plansza: Git - Podstawy](Tools/Git-Podstawy.png)
 
 - GitHub
-  - [Plansza: GitHub - Podstawy](Narzędzia/GitHub-Podstawy.png)
-  - [Plansza: GitHub - README](Narzędzia/GitHub-README.png)
+  - [Plansza: GitHub - Podstawy](Tools/GitHub-Podstawy.png)
+  - [Plansza: GitHub - README](Tools/GitHub-README.png)
 - Visual Studio Code
-  - [Plansza: Visual Studio Code - Wprowadzenie](Narzędzia/Visual_Studio_Code-wprowadzenie.png)
-  - [Plansza: Visual Studio Code - Flow pracy z Git](Narzędzia/Visual_Studio_Code-flow_pracy_z_git.png)
-  - [Plansza: Visual Studio Code - EMMET](Narzędzia/Visual_Studio_Code-EMMET.png)
+  - [Plansza: Visual Studio Code - Wprowadzenie](Tools/Visual_Studio_Code-wprowadzenie.png)
+  - [Plansza: Visual Studio Code - Flow pracy z Git](Tools/Visual_Studio_Code-flow_pracy_z_git.png)
+  - [Plansza: Visual Studio Code - EMMET](Tools/Visual_Studio_Code-EMMET.png)
 - Postman
-  - [Plansza: Postman - Wprowadzenie](Narzędzia/Postman.png)
+  - [Plansza: Postman - Wprowadzenie](Tools/Postman.png)
 
 ## Efekty kształcenia INF.04 realizowane w projekcie
 
