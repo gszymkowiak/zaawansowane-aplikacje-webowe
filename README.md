@@ -85,17 +85,17 @@ W ramach projektu uczniowie:
 ### Bazy danych
 
 - MySQL
-  - [Plansza: MySQL - Wprowadzenie](MySQL-wprowadzenie.png)
+  - [Plansza: MySQL - Wprowadzenie](Databases/MySQL-wprowadzenie.png)
 
 - MongoDB
-  - [Plansza: MongoDB - Wprowadzenie](MongoDB-wprowadzenie.png)
-  - [Plansza: MongoDB - API REST](MongoDB-API_REST.png)
-  - [Plansza: MongoDB - React komunikacja z API](MongoDB-React_komunikacja_z_API.png)
-  - [Plansza: MongoDB - Czym jest kolekcja?](MongoDB-kolekcja.png)
+  - [Plansza: MongoDB - Wprowadzenie](Databases/MongoDB-wprowadzenie.png)
+  - [Plansza: MongoDB - API REST](Databases/MongoDB-API_REST.png)
+  - [Plansza: MongoDB - React komunikacja z API](Databases/MongoDB-React_komunikacja_z_API.png)
+  - [Plansza: MongoDB - Czym jest kolekcja?](Databases/MongoDB-kolekcja.png)
 
 - Autoryzacja i uwierzytelnianie użytkowników
-  - [Plansza: Autoryzacja z MongoDB](Autoryzacja-MongoDB.png)
-  - [Plansza: Autoryzacja z MySQL](Autoryzajca-MySQL.png)
+  - [Plansza: Autoryzacja z MongoDB](Databases/Autoryzacja-MongoDB.png)
+  - [Plansza: Autoryzacja z MySQL](Databases/Autoryzajca-MySQL.png)
 
 ### Narzędzia
 
