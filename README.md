@@ -67,7 +67,7 @@ W ramach projektu uczniowie:
   - [Plansza: Flexbox i układ mobilny](Rwd/RWD-Flexbox-układ_mobilny.png)
   - [Plansza: CSS Grid - podstawy](Rwd/RWD-CSS_Grid.png)
   - [Plansza: CSS nawigacja](Rwd/CSS-nawigacji.png)
-  - [Plansza: JS nawigacjay](Rwd/JS-nawigacji.png)
+  - [Plansza: JS nawigacja](Rwd/JS-nawigacji.png)
 
 ### Backend
 
