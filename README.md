@@ -82,7 +82,7 @@ W ramach projektu uczniowie:
   - [Plansza: Node - Express.js](Node/Node-Express-podstawy.png)
 
 - REST API
-  - [Plansza: Rest API - Wprowadzenie](Rest_API.png)
+  - [Plansza: Rest API - Wprowadzenie](Node/Rest_API.png)
 
 ### Bazy danych
 
