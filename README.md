@@ -45,8 +45,8 @@ W ramach projektu uczniowie:
   - [Test. Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
 
 - TypeScript
-  - [Plansza: TypeScript - Wprowadzene](TypeScript-Wprowadzenie.png)
-  - [Plansza: TypeScript - Podstawy pracy](TypeScript-Podstawy.png)
+  - [Plansza: TypeScript - Wprowadzene](TypeScript/TypeScript-Wprowadzenie.png)
+  - [Plansza: TypeScript - Podstawy pracy](TypeScript/TypeScript-Podstawy.png)
 
 - Biblioteka React
   - [Fiszki. Co wiesz o React?](https://material.edu.tychy.pl/data/tools/react-fiszki/)
