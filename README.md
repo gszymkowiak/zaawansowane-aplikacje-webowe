@@ -147,10 +147,14 @@ W ramach projektu uczniowie:
 ```text
 projekt/
 │
-├── frontend/
-├── backend/
+├── bootstrap/
 ├── database/
-├── docs/
+├── html/
+├── node/
+├── react/
+├── rwd/
+├── tools/
+├── topics/
 └── README.md
 ```
 
