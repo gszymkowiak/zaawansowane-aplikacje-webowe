@@ -10,10 +10,10 @@ Repozytorium zawiera zestaw materiałów w formacie PDF dotyczących podstaw two
 
 ### Responsive Web Design (RWD)
 
-1. RWD - Wprowadzenie
-2. RWD - Media Queries
-3. RWD - Grid-podstawy
-4. RWD - Flexbox-podstawy
+1. [RWD - Wprowadzenie](RWD-Wprowadzenie.pdf)
+2. [RWD - Media Queries](RWD-Media_Queries.pdf)
+3. [RWD - Grid-podstawy](RWD-Grid-podstawy.pdf)
+4. [RWD - Flexbox-podstawy](RWD-Flexbox-podstawy.pdf)
 
 ## 📄 Licencja
 
