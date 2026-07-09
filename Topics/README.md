@@ -4,9 +4,9 @@ Repozytorium zawiera zestaw materiałów w formacie PDF dotyczących podstaw two
 
 ### HTML i JavaScript
 
-1. Dobre praktyki stylowania stron HTML
-2. Dobre praktyki pisania kodu w JavaScript
-3. Wprowadzenie do aplikacji webowych
+1. [Dobre praktyki stylowania stron HTML](Dobre_praktyki_stylowania_stron_HTML.pdf)
+2. [Dobre praktyki pisania kodu w JavaScript](Dobre_praktyki_pisania_kodu_w_JavaScript.pdf)
+3. [Wprowadzenie do aplikacji webowych](Wprowadzenie_do_aplikacji_webowych.pdf)
 
 ### Responsive Web Design (RWD)
 
