@@ -1,10 +1,10 @@
 # 📚 Materiały dydaktyczne – RWD
 
 <p align="center">
-    <img src="TypeScript-Wprowadzenie.png" alt="TypeScript - Wprowadzene" width="500"><br />
-    <em>Plansza: TypeScript - Wprowadzene</em>
+    <img src="RWD-Zasady.png" alt="Zasady RWD" width="500"><br />
+    <em>Plansza: Zasady RWD</em>
 </p>
 <p align="center">
-    <img src="TypeScript-Podstawy.png" alt="TypeScript - Podstawy pracy" width="500"><br />
-    <em>Plansza: TypeScript - Podstawy pracy</em>
+    <img src="RWD-Flexbox.png.png" alt="Podstawy flexbox" width="500"><br />
+    <em>Plansza: Podstawy flexbox</em>
 </p>
