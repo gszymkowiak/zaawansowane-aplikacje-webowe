@@ -21,7 +21,7 @@
     <em>Plansza: Node - System plików</em>
 </p>
 <p align="center">
-    <img src="Node-Moduły_Commonjs_i_ES_module.png" alt="Node - Moduły: Commonjs i ES modules" width="500"><br />
+    <img src="Node-Moduły_Commonjs_i_ES_modules.png" alt="Node - Moduły: Commonjs i ES modules" width="500"><br />
     <em>Plansza: Node - Moduły: Commonjs i ES modules</em>
 </p>
 <p align="center">
