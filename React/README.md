@@ -17,7 +17,7 @@
     <em>Plansza: Hook useEffect()</em>
 </p>
 <p align="center">
-    <img src="React-hook_useEffect.png" alt="Hook userId()" width="500"><br />
+    <img src="React-hook_userId.png" alt="Hook userId()" width="500"><br />
     <em>Plansza: Hook userId()</em>
 </p>
 <p align="center">
