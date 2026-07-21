@@ -1,4 +1,4 @@
-# 📚 Materiały dydaktyczne – Aplikacje Webowe
+# 📚 Materiały dydaktyczne – Aplikacje webowe
 
 Repozytorium zawiera zestaw materiałów w formacie PDF dotyczących podstaw tworzenia aplikacji webowych, które obejmują zagadnienia związane z HTML, JavaScript oraz Responsive Web Design (RWD).
 
