@@ -4,8 +4,8 @@ Repozytorium zawiera zestaw materiałów w formacie PDF dotyczących podstaw two
 
 ### HTML
 
-1. [Dobre praktyki stylowania stron HTML](Dobre_praktyki_stylowania_stron_HTML.pdf)
-2. [Wprowadzenie do aplikacji webowych](Wprowadzenie_do_aplikacji_webowych.pdf)
+1. [Wprowadzenie do aplikacji webowych](Wprowadzenie_do_aplikacji_webowych.pdf)
+2. [Dobre praktyki stylowania stron HTML](Dobre_praktyki_stylowania_stron_HTML.pdf)
 
 ### JavaScript
 
