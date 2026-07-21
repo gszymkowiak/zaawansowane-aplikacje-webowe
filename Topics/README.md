@@ -9,8 +9,8 @@ Repozytorium zawiera zestaw materiałów w formacie PDF dotyczących podstaw two
 
 ### JavaScript
 
-1. [Dobre praktyki pisania kodu w JavaScript](Dobre_praktyki_pisania_kodu_w_JavaScript.pdf)
-2. [Test. Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
+1. [Test. Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
+2. [Dobre praktyki pisania kodu w JavaScript](Dobre_praktyki_pisania_kodu_w_JavaScript.pdf)
 
 ### Responsive Web Design (RWD)
 
