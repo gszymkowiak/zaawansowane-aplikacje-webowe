@@ -41,9 +41,6 @@ W ramach projektu uczniowie:
   - [Plansza: Bootstrap - Podejście "mobile first"](Bootstrap/Bootstrap-Mobile_first.png)
   - [Plansza: Bootstrap - Responsywana stronw www](Bootstrap/Bootstrap-SPA_responsywnie.png)
 
-- JavaScript (ES6+)
-  - [Test. Co wiesz o JavaScript?](https://forms.gle/Fv3oMRwcqNSAuer37)
-
 - TypeScript
   - [Plansza: TypeScript - Wprowadzene](TypeScript/TypeScript-Wprowadzenie.png)
   - [Plansza: TypeScript - Podstawy pracy](TypeScript/TypeScript-Podstawy.png)
