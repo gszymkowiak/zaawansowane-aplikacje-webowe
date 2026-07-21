@@ -160,6 +160,7 @@ projekt/
 
 ## Wymagania
 
+- JavaScript, React, Vite.js
 - Node.js 20+
 - Git
 - Wybrany system bazodanowy
