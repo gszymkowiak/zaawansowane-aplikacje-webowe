@@ -20,7 +20,7 @@ W ramach projektu uczniowie:
 
 ## Zakres realizowanych zagadnień
 
-### Materiał
+### Materiał dydaktyczny
 
 - [Zagadnienia](Topics)
 
